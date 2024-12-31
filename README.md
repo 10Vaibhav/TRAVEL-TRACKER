@@ -121,3 +121,6 @@ The application includes comprehensive error handling for:
 
 Feel free to fork this repository and submit pull requests for any improvements.
 
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
+
